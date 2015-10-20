@@ -8,13 +8,54 @@ bibliography: Literature.bib
 
 # Introduction
 
+Germany is exerpiencing and unprecedented inflow of asylum seekers. Between January and September 2015 alone, 274.923 new people applied for asylum (BAMF). The government is expecting 800.000 applications until the end of this year according to its official statistics (Zeit), though some newspapers claim that internal reports talk about 1,5 million (Welt). The highest number of application so was 438.191 in  1992.
+
+Parellel to the rise in the numbers of asylum seekers, the number of voluntary organizations that offer help to the people arriving seem to be increasing as well and more and more citizens claim to work voluntarily in these organizations (Quelle). The press is publishing information on how people can get active and organizations such as ProAsyl create databases containing projects which are intended to guide citizens to projects. Politicians, social activists and researchers uniformly claim that this kind of help is an important brickstone in managing the challange of welcoming and supporting the asylum seekers. 
+
+It is therefore of vital importance to understand why these organization exist in some places but not in others. What determines the existince of voluntary organizations that assist asylum seekers? The goal of this paper is to test existing theories about civil participation with new data and in the context of the prevelant extraordinary number of asylum seekers. 
+
+The development has sparked the creation of databases in which voluntary organizations are listed, most notably the customized Google Map by ProAsyl. These databases have not existed before and give for the first time the chance to analyse this topic relying on actual initiatves instea of people self-reported activism.
+
+The idea is to extract the data from the Map by extracting the relevant entries from its source code. With this data, each initative could be linked to its respective Kreis (county). The result is a dataset of organizations per county. 
+
+With this dataset we hope to achieve two things. First, by relating this data to other variables from the federal statistical office, the influence of certain determinants (demography, income distribution, number of asylum seekers) on the existance of voluntary oranizations can be estimated. Second, several descriptive statistics can be calculated and presented on a webpage. The statistics could be dynamically linked so that they are updated when there is a new version of the map. This allows for tracking the development of these organizations, showing the actual ratio between refugee and voluntary organizations in a county and so on.
+
 # Theory
+Determinanten gesellschaftlichen Engagements?
+
+Sollte in der Flüchtlingskrise irgendwas anders sein?
+
 
 # Data
+Abhängige
+
+Pro Asyl Karte, Flüchtlingsinitiativen pro Landkreis (?) geteilt durch Einwohnerzahl (so auch Problem Sättigung behoben)
+
+
+Unabhängige
+
+DeStatis, leider kein API
 
 # Analysis
+Descriptive
+
+Dynamically linked stats and maps on Website
+
+Inferential
+
+Poisson distribution
 
 # Problems
+Nicht institutionalisierte Hilfe -> institutionalisierte und nicht-institutionalisierte Hilfe Verhältnis ist in allen Orten ähnlich, bias random
+
+Unterschätztes Engagement von Älteren -> ebenfalls unterschiedliche, aber kontrollieren auf Alter, bias nicht random
+
+Jede Initiative zählt gleich viel -> Bias ist random, Pro Asyl kontaktieren um Methodik zu verstehen, Mitgliederstarke Initiative zählt gleich viel wie kleine
+Was ist mit Engagement in existierenden Institutionen wie Kirchen oder DRK? Bias nicht random, Ost-West
+
+Problem inaktive Initiativen -> random bias, Kontakt zu ProAsyl
+
+Tätigkeitsschwerpunkt bei allen gleich
 
 # Bibliography
 
