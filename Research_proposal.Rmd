@@ -6,6 +6,16 @@ output: html_document
 bibliography: Literature.bib
 ---
 
-@McManus2014
+# Introduction
 
-#Bibliography
+# Theory
+
+# Data
+
+# Analysis
+
+# Problems
+
+# Bibliography
+
+@McManus2014
