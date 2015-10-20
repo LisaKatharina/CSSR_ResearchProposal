@@ -1,9 +1,6 @@
 # Second Pair Assignment by Christopher Cosler and Lisa Schmid
 Assignment 2 for the course <a href="https://github.com/HertieDataScience/SyllabusAndLectures" target="_blank">MPP-E1180: Introduction to Collaborative Social Science Data Analysis</a> taught by <a href="https://github.com/christophergandrud
-" target="_blank">@ChristopherGandrud</a> at the <a href="https://hertie-school.berlin" target="_blank">Hertie School of Governance</a> .
-
-
-Any feedback, comments, and ideas are encouraged. Please send them to <a href="mailto:c.cosler@mpp.hertie-school.org">Christopher Cosler</a> or <a href="mailto:lisa.schmid@mpp.hertie-school.org">Lisa Schmid</a> or submit a pull request.
+" target="_blank">@ChristopherGandrud</a> at the <a href="https://hertie-school.berlin" target="_blank">Hertie School of Governance</a>. Any feedback, comments, and ideas are encouraged. Please send them to <a href="mailto:c.cosler@mpp.hertie-school.org">Christopher Cosler</a> or <a href="mailto:lisa.schmid@mpp.hertie-school.org">Lisa Schmid</a> or submit a pull request.
 
 
 ## Instructions and background information on our repository:
