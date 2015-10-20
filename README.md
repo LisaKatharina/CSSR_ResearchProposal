@@ -41,7 +41,16 @@ The focus of the research proposal should be
 
 Deadline for submission:  23th October 2015
 
-# Annex 
+## Folder and file structure
+
+    .
+    ├── ResearchProposal.rmd         # Research proposal.
+    ├── Literature.bib               # Contains literature cited in the proposal.
+    ├── Packages.bib                 # Contains packages used to knit the proposal.
+    ├── Readme.md                     
+ 
+
+## Annex 
 R version 3.1.1 (2014-07-10) Copyright (C) 2014 The R Foundation for Statistical Computing Platform: x86_64-apple-darwin13.1.0 (64-bit)
 
 R Studio Version 0.98.1056 – © 2009-2013 RStudio, Inc.
