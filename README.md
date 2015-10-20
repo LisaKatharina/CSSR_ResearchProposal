@@ -1,7 +1,7 @@
 # Second Pair Assignment by Christopher Cosler and Lisa Schmid
 Course MPP-E1180: Introduction to Collaborative Social Science Data Analysis
 
-Any feedback, comments, and ideas are encouraged. Please send them to <ahref="mailto:c.cosler@mpp.hertie-school.org">Christopher Cosler</a> or <ahref="mailto:lisa.schmid@mpp.hertie-school.org">Lisa Schmid</a> or submit a pull request.
+Any feedback, comments, and ideas are encouraged. Please send them to <a href="mailto:c.cosler@mpp.hertie-school.org">Christopher Cosler</a> or <a href="mailto:lisa.schmid@mpp.hertie-school.org">Lisa Schmid</a> or submit a pull request.
 
 
 ## Instructions and background information on our repository:
