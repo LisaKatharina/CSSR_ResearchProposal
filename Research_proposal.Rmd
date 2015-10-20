@@ -1,0 +1,11 @@
+---
+title: "Research Proposal"
+author: "Christopher and Lisa"
+date: "9. Oktober 2015"
+output: html_document
+bibliography: Literature.bib
+---
+
+@McManus2014
+
+#Bibliography
