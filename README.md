@@ -1,12 +1,15 @@
 # Second Pair Assignment by Christopher Cosler and Lisa Schmid
-Course MPP-E1180: Introduction to Collaborative Social Science Data Analysis
+Assignment 2 for the course <a href="https://github.com/HertieDataScience/SyllabusAndLectures" target="_blank">MPP-E1180: Introduction to Collaborative Social Science Data Analysis</a> taught by <a href="https://github.com/christophergandrud
+" target="_blank">@ChristopherGandrud</a> at the <a href="https://hertie-school.berlin" target="_blank">Hertie School of Governance</a> .
+
 
 Any feedback, comments, and ideas are encouraged. Please send them to <a href="mailto:c.cosler@mpp.hertie-school.org">Christopher Cosler</a> or <a href="mailto:lisa.schmid@mpp.hertie-school.org">Lisa Schmid</a> or submit a pull request.
 
 
 ## Instructions and background information on our repository:
 
-This repository contains the files of our research proposal for the course "Introduction to Collaborative Social Science Data Analysis", taught by Christopher Gandrud at the Hertie School of Governance in Fall 2015.
+This repository contains the files of our research proposal for the course <a href="https://github.com/HertieDataScience/SyllabusAndLectures" target="_blank">MPP-E1180: Introduction to Collaborative Social Science Data Analysis</a> taught by <a href="https://github.com/christophergandrud
+" target="_blank">@ChristopherGandrud</a> at the <a href="https://hertie-school.berlin" target="_blank">Hertie School of Governance</a>  in Fall 2015.
 
 In addition to the Readme file, our repository contains one BibTeX file, an RMD file, a PDF file and an HTML file. The PDF and the HTML were created using the knit function of R Studio. The referenced literature can be found in the BibTeX file "Literature.bib". The R Packages used for the proposal are cited in the BibTeX file "Packages.bib". As the BibTeX files and the RMD file are dynamically linked, it is important to save all three files in the same folder when trying to run the RMD file.
 
